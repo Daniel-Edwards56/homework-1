@@ -4,4 +4,4 @@ in this assignment i restructured the layout of the css to be more consise aswel
 grouping parts of the code in both html and css so that it's easier to see what part of the 
 webpage the code is applying to. While also updating all changes with commits to github and hosting
 the page via github pages
-![screenshot of deployed page](images/homework-1-screencap.PNG)
+![screenshot of deployed page](assets/images/homework-1-screencap.PNG "screenshot")
